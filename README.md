@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jefferson Lopes
 
-<!--
-**jeffersonalopes/jeffersonalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer**
 
-Here are some ideas to get you started:
+I'm passionate about building clean, scalable systems and solving real-world problems through code. 
+I enjoy translating complex requirements into solid architecture and writing code that balances performance, maintainability, and clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonlopes&layout=compact)
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: [linkedin.com/in/jefferson-augusto-lopes-6732931b5](https://www.linkedin.com/in/jefferson-augusto-lopes-6732931b5/)
