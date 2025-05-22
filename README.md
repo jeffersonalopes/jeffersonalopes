@@ -29,7 +29,9 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=flat)
+![Wordpress](https://img.shields.io/badge/-WordPress-5091CD?logo=wordpress&logoColor=white&style=flat)
 ![Joomla](https://img.shields.io/badge/-Joomla-5091CD?logo=joomla&logoColor=white&style=flat)
+
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
