@@ -8,7 +8,7 @@ I enjoy translating complex requirements into solid architecture and writing cod
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonlopes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonalopes&layout=compact)
 
 ---
 
