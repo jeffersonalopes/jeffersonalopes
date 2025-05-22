@@ -8,7 +8,7 @@ I enjoy translating complex requirements into solid architecture and writing cod
 
 ## 🧠 Tech Stack
 
-<details>
+
 <summary><strong>Languages</strong></summary>
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)  
@@ -18,9 +18,8 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)  
 
-</details>
 
-<details>
+
 <summary><strong>Backend</strong></summary>
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)  
@@ -32,9 +31,8 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![REST API](https://img.shields.io/badge/-REST%20API-00599C?logo=protocols.io&logoColor=white&style=flat)  
 ![TypeORM](https://img.shields.io/badge/-TypeORM-CB3837?logo=typeorm&logoColor=white&style=flat)
 
-</details>
 
-<details>
+
 <summary><strong>Frontend</strong></summary>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
@@ -48,9 +46,9 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)  
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 
-</details>
 
-<details>
+
+
 <summary><strong>Databases</strong></summary>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
@@ -59,9 +57,9 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 
-</details>
 
-<details>
+
+
 <summary><strong>DevOps & Infra</strong></summary>
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
@@ -73,16 +71,13 @@ I enjoy translating complex requirements into solid architecture and writing cod
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)  
 *(ECS, EC2, RDS, CloudFront)*
 
-</details>
 
-<details>
+
 <summary><strong>Others</strong></summary>
 
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat)  
 ![Mailgun](https://img.shields.io/badge/-Mailgun-512D6D?logo=mailgun&logoColor=white&style=flat)  
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat)
-
-</details>
 
 ---
 
