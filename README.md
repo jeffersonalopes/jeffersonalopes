@@ -6,7 +6,7 @@ I'm passionate about building clean, scalable systems and solving real-world pro
 I enjoy translating complex requirements into solid architecture and writing code that balances performance, maintainability, and clarity.
 
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Languages | Backend | Frontend |
 |----------|---------|----------|
